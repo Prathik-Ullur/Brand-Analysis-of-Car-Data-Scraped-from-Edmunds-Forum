@@ -34,7 +34,7 @@ Determined most aspirational brands in terms of people actually wanting to buy o
 
 ## Results
 
-### Insights we offer brand managers choosing two brands.
+### Insights we offered brand managers.
 
 The brands with the highest common lift are Hyundai and Kia with the lift value equal to 4.29, which turns out to be the highest between any 2 combinations among the top 10 brands. The frequency of occurrence of Hyundai is 887 and that of Kia is 522 among the total posts and comments scraped.
 
